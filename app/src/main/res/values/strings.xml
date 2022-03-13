@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">San Diego Best Spots</string>
+    <string name="category_beaches">Primeiro Ano</string>
+    <string name="category_restaurants">Segundo Ano</string>
+    <string name="category_sktparks">Daqui ao infinito!</string>
+    <string name="category_shopping">Terceiro Ano</string>
+    <string name="name_sunset">Sunset Cliffs</string>
+    <string name="name_sunset_address">Location: Sunset Cliffs Blvd., Ocean Beach, San Diego, CA</string>
+    <string name="name_lajolla">La Jolla Shores</string>
+    <string name="name_lajolla_address">La Jolla Blvd., San Diego County, CA</string>
+    <string name="name_hodads">Hodads Burguers</string>
+    <string name="name_hodads_address">Location: Newport Ave., Ocean Beach. Opens 10 AM until 10 PM</string>
+    <string name="name_taco">Taco Surf</string>
+    <string name="name_taco_address">Location: Garnet Ave., Pacific Beach. Opens 8 AM until 9 PM</string>
+    <string name="name_wsvt">Washington Street Skate Park</string>
+    <string name="name_wsvt_address">Location: Middletown. Opens 8 AM until 10 PM</string>
+    <string name="name_memo">Memorial Skate Park</string>
+    <string name="name_memo_address">Location: Grant Hill. Opens 8 AM until 10 PM</string>
+    <string name="name_fashion">Fashion Valley</string>
+    <string name="name_fashion_address">Location: Mission Valley. Opens 8 AM until 9 PM</string>
+    <string name="name_lasamericas">Las Americas Outlet</string>
+    <string name="name_lasamericas_address">Location: San Ysidro. Opens 7 AM until 9 PM</string>
+
+
+</resources>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/place_current"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="6dp"
+            android:textAlignment="center"
+            android:textSize="28sp"
+            android:textColor="#000"
+            android:text="xxxx"/>
+
+        <TextView
+            android:id="@+id/address_current"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="6dp"
+            android:textAlignment="center"
+            android:textSize="24sp"
+            android:textColor="#000"
+            android:text="xxxx"/>
+
+        <ImageView
+            android:id="@+id/image_current"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginBottom="40dp"
+            android:textAlignment="center" />
+
+        <ImageView
+            android:id="@+id/image_current2"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginBottom="40dp"
+            android:src="@drawable/ano_2020_2"
+            android:textAlignment="center" />
+
+        <ImageView
+            android:id="@+id/image_current3"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+
+            android:layout_marginBottom="40dp"
+            android:src="@drawable/ano_2020_3"
+            android:padding="5dp"
+            android:textAlignment="center" />
+
+        <ImageView
+            android:id="@+id/image_current4"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginBottom="40dp"
+            android:src="@drawable/ano_2020_4"
+            android:padding="5dp"
+            android:textAlignment="center" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="6dp"
+            android:textAlignment="center"
+            android:textSize="24sp"
+            android:textColor="#000"
+            android:text="2020, ano da pandemia... Nos fez ainda mais unidos, ainda mais juntos no dia a dia e fez nos ter mais certeza da escolha de ficarmos juntos sempre! Vários meses em casa, viagem de Monte Verde e Bahia!"/>
+
+    </LinearLayout>
+</ScrollView>

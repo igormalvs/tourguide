@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/place_current"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="6dp"
+            android:textAlignment="center"
+            android:textSize="28sp"
+            android:textColor="#000"
+            android:text="xxxx"/>
+
+        <TextView
+            android:id="@+id/address_current"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="6dp"
+            android:textAlignment="center"
+            android:textSize="24sp"
+            android:textColor="#000"
+            android:text="xxxx"/>
+
+        <ImageView
+            android:id="@+id/image_current"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginBottom="40dp"
+            android:textAlignment="center" />
+
+        <ImageView
+            android:id="@+id/image_current2"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginBottom="40dp"
+            android:src="@drawable/ano_2021_2"
+            android:textAlignment="center" />
+
+        <ImageView
+            android:id="@+id/image_current3"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+
+            android:layout_marginBottom="40dp"
+            android:src="@drawable/ano_2021_3"
+            android:padding="5dp"
+            android:textAlignment="center" />
+
+        <ImageView
+            android:id="@+id/image_current4"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+
+            android:layout_marginBottom="40dp"
+            android:src="@drawable/ano_2021_4"
+            android:padding="5dp"
+            android:textAlignment="center" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="6dp"
+            android:textAlignment="center"
+            android:textSize="24sp"
+            android:textColor="#000"
+            android:text="2021 começa como um ano muito incerto, mas fomos muito decididos. Conseguimos organizar nossos planos e finalmente conseguir unir nossas rotinas. E não podia ser melhor! Vivemos um sonho... sei que falamos isso com certa frequência, mas acho que vale a pena sempre lembrar e repetir. Mal consigo imaginar minha vida sem você o próximo semestre, mas você sabe que sempre estarei aqui torcendo muito para seu sucesso e que volte logo! De forma bem inesperada conseguiremos realizar mais um grande sonho: viajar à Europa e ainda passar as festas lá. Hoje, 18 agosto de 2021 fazemos exatamente 3 anos do melhor relacionamento de todos, o melhor que já vi, o melhor para nós dois. Que assim seja para sempre, eu te amo meu amor!"/>
+
+    </LinearLayout>
+</ScrollView>

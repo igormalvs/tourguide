@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/place_current"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="6dp"
+            android:textAlignment="center"
+            android:textSize="28sp"
+            android:textColor="#000"
+            android:text="xxxx"/>
+
+        <TextView
+            android:id="@+id/address_current"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="6dp"
+            android:textAlignment="center"
+            android:textSize="24sp"
+            android:textColor="#000"
+            android:text="xxxx"/>
+
+        <ImageView
+            android:id="@+id/image_current"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginBottom="40dp"
+            android:textAlignment="center" />
+
+        <ImageView
+            android:id="@+id/image_current2"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginBottom="40dp"
+
+            android:src="@drawable/ano_2019_2"
+            android:textAlignment="center" />
+
+        <ImageView
+            android:id="@+id/image_current3"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+
+            android:layout_marginBottom="40dp"
+            android:src="@drawable/ano_2019_3"
+            android:padding="5dp"
+            android:textAlignment="center" />
+
+        <ImageView
+            android:id="@+id/image_current4"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginBottom="40dp"
+            android:src="@drawable/ano_2019_4"
+            android:padding="5dp"
+            android:textAlignment="center" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="6dp"
+            android:textAlignment="center"
+            android:textSize="24sp"
+            android:textColor="#000"
+            android:text="2019 já começou bem desafiador, mudanças de cidade e de trabalho para nós dois. Lembro com bastante carinho dos nossos finais de semana em SBC, andando pela Kennedy e comendo pastel na feira. Mas o ponto alto foi nossa primeira viagem internacional, Patagônia foi sem palavras, o que marcou de vez nosso estilo outdoor!"/>
+
+    </LinearLayout>
+</ScrollView>
